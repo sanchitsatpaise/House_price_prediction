@@ -2,6 +2,7 @@
 
 The **House Price Prediction App** is a simple and interactive **Streamlit-based web application** that predicts house prices using a trained **machine learning model**. Users can input key property features such as bedrooms, bathrooms, living area, house condition, and nearby schools to instantly receive an estimated house price.
 
+**APP LINK:https://houseprpred.streamlit.app/**
 ---
 
 ## 📌 1. Project Objective
